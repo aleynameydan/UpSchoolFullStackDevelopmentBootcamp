@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = UpSchool.Wasm
+build_property.RootNamespace = UpSchool.Wasm
+build_property.ProjectDir = /Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Components/SavedPasswordsCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TYXZlZFBhc3N3b3Jkc0NhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Pages/AccountsAddPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudHNBZGRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Pages/AccountsEditPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudHNFZGl0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Pages/PasswordGeneratorPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFzc3dvcmRHZW5lcmF0b3JQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4yxmxhljgd
+
+[/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Wasm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zjwyuvjqxc

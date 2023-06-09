@@ -1,0 +1,12 @@
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/bin/Debug/net7.0/UpSchool.Domain.deps.json
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/bin/Debug/net7.0/UpSchool.Domain.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/bin/Debug/net7.0/UpSchool.Domain.pdb
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.csproj.AssemblyReference.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.AssemblyInfoInputs.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.AssemblyInfo.cs
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.csproj.CoreCompileInputs.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/refint/UpSchool.Domain.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/UpSchool.Domain.pdb
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/UpSchool-TheBasics/TheBasics/src/UpSchool.Domain/obj/Debug/net7.0/ref/UpSchool.Domain.dll

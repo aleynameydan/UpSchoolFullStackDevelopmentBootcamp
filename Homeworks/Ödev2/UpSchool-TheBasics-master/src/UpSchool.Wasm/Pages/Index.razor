@@ -1,0 +1,14 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+
+<h2> Index Page </h2>
+
+<button class="btn btn-info" @onclick=@(() => NavigationManager.NavigateTo($"/passwordGenerator/{Length}"))> Go to the Password Generator Page </button>
+
+@code
+{
+
+    public int Length = 25;
+
+
+}
